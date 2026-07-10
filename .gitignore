@@ -1,2 +1,11 @@
+logfiles/log_*
+**/*.csv
+pictures/data/location/gps/*.dat
+pictures/*
+!pictures/pie
 *.png
-pictures/
+!final.png
+.Rproj.user
+recipes.Rproj
+.Rhistory
+.RData
